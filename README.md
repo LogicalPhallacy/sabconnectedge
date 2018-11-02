@@ -1,6 +1,6 @@
 
 **Important note:**
-Nobody is maintaining this codebase right now. Anyone who needs a fix will need to submit a Pull Request with the required changes.
+This is a fork of SABConnect++ to port the extension from Chrome to Edge. Don't bug the main devs for SABConnect++ about it.
 
 ---
 
@@ -8,7 +8,7 @@ SABconnect++ adds one-click 'Send to SABnzbd' buttons to many popular NZB index 
 
 You also get a taskbar button that allows you to keep an eye on your SABnzbd: current downloads, pause (individual downloads, or pause all), or remove individual queued downloads.
 
-Install SABconnect++ at our [Chrome Web Store page](https://chrome.google.com/webstore/detail/okphadhbbjadcifjplhifajfacbkkbod).
+Install SABconnect++ at: WINDOWS STORE LINK TO BE ADDED ONCE THIS IS WORKING
 
 Features:
 
@@ -33,4 +33,4 @@ Features:
   * Desktop notifications (Download Complete/Failed)
   * Storage sync for settings
 
-SABconnect++ is a fork of the now unmaintained Chrome extension [SABconnect](http://code.google.com/p/sabconnect/).
+SABconnectEdge is a fork of the Chrome extension [SABconnect++](https://github.com/gboudreau/sabconnectplusplus).
